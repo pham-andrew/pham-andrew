@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
 - Space Force Software Engineer, developing PERN stack apps.
 - Harvard Software Engineering, writing Master's thesis in quantum cryptography.
-- Alumni CSUF Computer Science, go Titans!
+- Alumni CSUF Computer Science Video Game Design, go Titans!
 
 Current Project: Rapid Routing & Decision Dashboard (R2-D2)
 
