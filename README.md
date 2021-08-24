@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
-- Space Force Software Engineer, developing PERN stack apps.
+- Space Force Software Engineer, developing full stack web apps.
 - Harvard Software Engineering, writing Master's thesis in quantum cryptography.
 - Alumni CSUF Computer Science Video Game Design, go Titans!
 
