@@ -25,7 +25,7 @@ My high school computer science teacher said I was the most creative programmer 
 ### Cybersecurity
 * [Mock Company Audit](https://github.com/pham-andrew/CyberSecurity-Audit): Blue Team scanning for and fixing vulnerabilities
 * [Penetration Test Exercise](https://github.com/pham-andrew/Red-Teaming-Operations-Exercise): Red Team discovering and exploting vulnerabilities
-### Videogames
+### Video Games
 * [Colors](https://github.com/pham-andrew/Colors) (py): 2D Maze Runner Game
 ### Internet of Things
 * [Smart City Software System](https://github.com/pham-andrew/Smart-City-Software-System) (java): Device management in a smart city simulation
