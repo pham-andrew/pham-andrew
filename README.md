@@ -21,7 +21,7 @@ My high school computer science teacher said I was the most creative programmer 
 * [Cuckoo Hashing](https://github.com/pham-andrew/Cuckoo-Hashing) (c++): Cuckoo Hashing following two standard java hashing functions
 * [Sorting Disks](https://github.com/pham-andrew/Sorting-Disks) (c++): Sorting binary disks with two algorithms
 * [String Searching](https://github.com/pham-andrew/String-Searching) (c++): Timing two algorithms that solve the same substring problem
-* [Rat18s Compiler](https://github.com/pham-andrew/Rat18s-Compiler) (c++): DFA with parser, lexer, and syntactic analyzer. Generates token list, parse tree, and machine code.
+* [Rat18s Compiler](https://github.com/pham-andrew/Rat18s-Compiler) (c++): DFA with parser, lexer, and syntactic analyzer. Generates token list, parse tree, and machine code
 ### Cybersecurity
 * [Mock Company Audit](https://github.com/pham-andrew/CyberSecurity-Audit): Blue Team scanning for and fixing vulnerabilities
 * [Penetration Test Exercise](https://github.com/pham-andrew/Red-Teaming-Operations-Exercise): Red Team discovering and exploting vulnerabilities
