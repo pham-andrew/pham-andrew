@@ -43,3 +43,5 @@ My high school computer science teacher said I was the most creative programmer 
 ### Websites
 * [anime.museum](https://anime.museum) (js): 3D virtual anime museum
 * [MUItesting.com](https://muitesting.com) (js): Reference for testing MUI components with React Testing Library
+
+<sub><sup>These are all personal or educational projects and therefore may be unfinished or unrefined.</sup></sub>
