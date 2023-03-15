@@ -31,7 +31,7 @@ My high school computer science teacher said I was the most creative programmer 
 * [Smart City Software System](https://github.com/pham-andrew/Smart-City-Software-System) (java): Device management in a smart city simulation
 * [Boxing Wearable](https://github.com/pham-andrew/BoxingWearable) (c): Boxing glove sensor prototype that detects shadowboxing punches
 ### Code Snippets
-* [Chart In Tooltip](https://github.com/pham-andrew/chart-in-tooltip) (ts): Example of a scatterplot chart embedded in a tooltip using dx react mui
+* [Chart In Tooltip](https://github.com/pham-andrew/chart-in-tooltip) (ts): Scatterplot chart embedded in a tooltip using dx react mui
 * [RTL Mocks Bug](https://github.com/pham-andrew/rtl-mocks-bug-minimal-reproducible-example) (ts): Minimal Reproducible Example of React Testing Library Mocks Bug
 * [Reddit Vote](https://gist.github.com/pham-andrew/1aaf8570fe092bc47026074c3f64925f) (js): Reddit style vote handling in react
 ### Web Apps
