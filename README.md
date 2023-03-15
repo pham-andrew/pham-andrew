@@ -33,12 +33,13 @@ My high school computer science teacher said I was the most creative programmer 
 ### Code Snippets
 * [Chart In Tooltip](https://github.com/pham-andrew/chart-in-tooltip) (ts): Example of a scatterplot chart embedded in a tooltip using dx react mui
 * [RTL Mocks Bug](https://github.com/pham-andrew/rtl-mocks-bug-minimal-reproducible-example) (ts): Minimal Reproducible Example of React Testing Library Mocks Bug
+* [Reddit Vote](https://gist.github.com/pham-andrew/1aaf8570fe092bc47026074c3f64925f) (js): Reddit style vote handling in react
 ### Web Apps
 * [R2-D2](https://github.com/pham-andrew/R2-D2) (js): Rapid Routing and Decision Dashboard, document routing app made in AFWERX coding program
 * [Stoked Custom Web Pages](https://github.com/pham-andrew/Stoked-Custom-Web-Pages) (css): Web applications comissioned by Stoked in 2017 developed with pure HTML CSS JS techniques
 * [Chat Room](https://github.com/pham-andrew/Chat-Room) (js): PERN Stack Chatroom using Heroku
 * [4ch](https://github.com/pham-andrew/4ch) (js): Bootcamp CRUD Final
-* [Ceullular Automata Rule 45](https://github.com/pham-andrew/Elementary-Cellular-Automata-Rule-45) (js): Calculates and displays the generational progress of Wolfram's Rule-45 cellular automaton.
+* [Ceullular Automata Rule 45](https://github.com/pham-andrew/Elementary-Cellular-Automata-Rule-45) (js): Calculates and displays the generational progress of Wolfram's Rule-45 cellular automaton
 ### Websites
 * [anime.museum](https://anime.museum) (js): 3D virtual anime museum
 * [MUItesting.com](https://muitesting.com) (js): Reference for testing MUI components with React Testing Library
