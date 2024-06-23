@@ -12,6 +12,7 @@ My high school computer science teacher said I was the most creative programmer 
 * [Cloud Quantum RNG For Cryptography](https://github.com/pham-andrew/Cloud-Quantum-Computer-RNG-for-Cryptography) (py): Harvard Master's Thesis
 * [Satellite RCS ML Regression](https://github.com/pham-andrew/Satellite-RCS-ML-Regression) (ts): DAF-MIT AIA Paper: Predicting satellite RCS with ML regression
 ### AI & ML Education
+* [Joi](https://github.com/pham-andrew/Joi) (py): Locally run AI assistant with persistent memory. 
 * [Self Driving Jetbot](https://github.com/pham-andrew/Self-Driving-Jetbot) (py): Robot avoids obstacles and follows humans with computer vision
 * [SIFT Demo](https://github.com/pham-andrew/SIFT-Demo) (py): Scale-invariant feature transform feature detection algorithm
 * [MNIST Classifier](https://github.com/pham-andrew/MNIST-Classifier) (py): PyTorch Neural Network Handwriting Numbers Classifier
