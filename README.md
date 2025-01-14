@@ -12,8 +12,8 @@ My high school computer science teacher said I was the most creative programmer 
 * [Cloud Quantum RNG For Cryptography](https://github.com/pham-andrew/Cloud-Quantum-Computer-RNG-for-Cryptography) (py): Harvard Master's Thesis
 * [Satellite RCS ML Regression](https://github.com/pham-andrew/Satellite-RCS-ML-Regression) (ts): Air Force - MIT paper on predicting satellite RCS with ML regression
 ### Boilerplates
-* [MERN Boilerplate with TypeScript](https://github.com/pham-andrew/MERN-boilerplate-ts): Andrew's preferred MERN stack staring point with CRUD example
-* [MERN Boilerplate with JavaScript](https://github.com/pham-andrew/MERN-boilerplate): Andrew's preferred MERN stack staring point with CRUD example
+* [MERN Boilerplate](https://github.com/pham-andrew/MERN-boilerplate-ts) (ts): Andrew's preferred MERN stack staring point with CRUD example
+* [MERN Boilerplate](https://github.com/pham-andrew/MERN-boilerplate) (js): Andrew's preferred MERN stack staring point with CRUD example
 ### Websites
 * [MUItesting.com](https://muitesting.com) (js): Reference for testing MUI components with React Testing Library
 * [anime.museum](https://anime.museum) (js): 3D virtual anime museum
