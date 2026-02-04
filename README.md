@@ -15,7 +15,7 @@ My high school computer science teacher said I was the most creative programmer 
 * [MERN Boilerplate](https://github.com/pham-andrew/MERN-boilerplate-ts) (ts): Andrew's preferred MERN stack staring point with CRUD example
 * [MERN Boilerplate](https://github.com/pham-andrew/MERN-boilerplate) (js): Andrew's preferred MERN stack staring point with CRUD example
 ### Websites
-* [MUItesting.com](https://muitesting.com) (js): Reference for testing MUI components with React Testing Library
+* [MUItesting.com](https://github.com/pham-andrew/MUItesting.com) (js): Reference for testing MUI components with React Testing Library
 * [anime.museum](https://anime.museum) (js): 3D virtual anime museum
 ### React Components
 * [Chart In Tooltip](https://github.com/pham-andrew/chart-in-tooltip) (ts): Scatterplot chart embedded in a tooltip using dx react mui
